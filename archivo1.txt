@@ -1,1 +1,3 @@
-Texto de prueba. /nEstoy probando si se sincroniza con el repo
+Texto de prueba. Estoy probando si se sincroniza con el repo.
+
+Haré un segundo commit pero con el comando git commit -m "<<Texto>>"
